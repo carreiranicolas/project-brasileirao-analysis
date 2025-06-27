@@ -1,0 +1,11 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Arquivos temporários e do Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Outros arquivos inúteis no Git
+*.pyc
+*.log
+.DS_Store
